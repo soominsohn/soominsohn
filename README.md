@@ -7,7 +7,7 @@
 - 👀 I’m interested in Back-end, Front-end and Data  <br>
 - 🌱 I’m currently learning Spring, React  <br>
 - 💾 To know more about me, please visit my <a href="https://soominsohn.github.io/"> portfolio site</a>  <br>
-- 📫 How to reach me: soominsohn.dev@gmail.com  <br>  
+- 📫 How to reach me: soomin.sohn.dev@gmail.com  <br>  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 </p>
