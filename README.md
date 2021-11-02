@@ -5,7 +5,7 @@
 - 📖 I'm in my final year at Ewha Womans University, Seoul  <br>
 - ✏ I'm attending Global Work Ready Program in Swinburne University of Technology on virtural environment, Melburne    <br>
 - 👀 I’m interested in Back-end, Front-end and Data  <br>
-- 🌱 I’m currently learning Spring, React  <br>
+<!--- 🌱 I’m currently learning Spring, React  <br> -->
 - 💾 To know more about me, please visit my <a href="https://soominsohn.github.io/"> portfolio site</a>  <br>
 - 📫 How to reach me: soomin.sohn.dev@gmail.com  <br>  
 <!-- - 💞️ I’m looking to collaborate on ... -->
