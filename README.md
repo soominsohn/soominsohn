@@ -8,7 +8,7 @@
 <!--- 🌱 I’m currently learning Spring, React  <br> -->
 - 💾 To know more about me, please visit my <a href="https://soominsohn.github.io/"> portfolio site</a>  <br>
 - 📫 How to reach me: soomin.sohn.dev@gmail.com  <br>
-- 💞️ My Engineering Blog: <a href="https://soominsohn.github.io/"> 숨쉬는 엔지니어의 공간 </a> <br>
+- 💞️ My Engineering Blog: <a href="https://dev-breathe.tistory.com/"> 숨쉬는 엔지니어의 공간 </a> <br>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 </p>
