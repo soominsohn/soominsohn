@@ -1,5 +1,5 @@
 <h3 align="center"><b>👩‍💻 About Me 👩‍💻</b></h3>  
-<a href="github.com/soominsohn">
+<a href="https://www.github.com/soominsohn">
     <button id="heartButton"><img src="http://clickme.today:8080/justImage"/></button>
 </a>
 <h4 align="center"><b>Happiness Driven Development</b></h4> 
