@@ -1,5 +1,5 @@
 <!-- <h3 align="center"><b>👩‍💻 About Me 👩‍💻</b></h3>  -->
-<a align="center" href="https://www.github.com/soominsohn"><img src="https://clickme.today/api/clicks/count?id=soominsohn"/></a>
+<a align="center" href=""><img src="https://clickme.today/api/clicks/count?id=soominsohn"/></a>
 <-- 클릭하면 놀라운 변화가 🤭
 
 [Generate Your Own ClickMe](https://clickme.today)
